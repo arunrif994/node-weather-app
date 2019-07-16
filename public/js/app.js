@@ -1,5 +1,3 @@
-console.log('Client Side javascript file is loaded')
-
 const weatherForm = document.forms[ 'weather-form' ];
 const search = weatherForm.elements[ 'location' ];
 const searchBtn = weatherForm.elements[ 'search-btn' ];
